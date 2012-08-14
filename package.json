@@ -1,5 +1,8 @@
 {
     "name": "sourcemint-pm-url",
     "version": "0.1.1",
-    "pm": "npm"
+    "pm": "npm",
+	"dependencies": {
+        "sourcemint-util-js": "0.1.x"
+    }
 }
